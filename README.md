@@ -19,3 +19,7 @@
 - 기록: 카카오톡 단체방 공지글에 댓글 기록함
 - 사용처: 민트하임(오프라인 만남)
 
+### 내가 작성한 글
+1. [콘텐츠 데이터 분석 기말 프로젝트](https://github.com/ekgus9701/2022-winter-writing-study/blob/main/week1/1%EC%A3%BC%EC%B0%A8%5D%20%EC%BD%98%ED%85%90%EC%B8%A0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.md)</br>
+2. [react native로 만든 앱 소개](https://github.com/ekgus9701/2022-winter-writing-study/blob/main/week2/%5B2%EC%A3%BC%EC%B0%A8%5D%20react%20native%EB%A1%9C%20%EB%A7%8C%EB%93%A0%20%EC%95%B1%20%EC%86%8C%EA%B0%9C.md)</br>
+3. [oculus rift와 유니티 연결하는 방법](https://github.com/ekgus9701/2022-winter-writing-study/blob/main/week3/oculus%20rift%EC%99%80%20%EC%9C%A0%EB%8B%88%ED%8B%B0%20%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)</br>
