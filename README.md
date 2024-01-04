@@ -4,7 +4,7 @@
 > 🌿 **민트하임 쓰터디**는 일주일에 기술 관련 글을 한 편 이상 작성하고, 서로의 글을 읽어보는 스터디입니다. 모인 벌금은 민트초코를 먹는 데 사용됩니다.
 
 ### 참여자
-|[남수연](https://github.com/mori8)|[서연주](https://github.com/yeonjuSeo)|[김도은](https://github.com/whaeundo25)|[김중현](https://github.com/JoongHyun-Kim)|[김은서](https://github.com/eunseo22mv)|[OOO](https://github.com/ekgus9701)|[홍재령](https://github.com/Jar199)|
+|[남수연](https://github.com/mori8)|[서연주](https://github.com/yeonjuSeo)|[김도은](https://github.com/whaeundo25)|[김중현](https://github.com/JoongHyun-Kim)|[김은서](https://github.com/eunseo22mv)|[한다현](https://github.com/ekgus9701)|[홍재령](https://github.com/Jar199)|
 |---|---|---|---|---|---|---|
 |<img src="https://github.com/mori8.png">|<img src="https://github.com/yeonjuSeo.png">|<img src="https://github.com/whaeundo25.png">|<img src="https://github.com/JoongHyun-Kim.png">|<img src="https://github.com/eunseo22mv.png">|<img src="https://github.com/ekgus9701.png">|<img src="https://github.com/Jar199.png">|
 
